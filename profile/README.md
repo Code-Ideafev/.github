@@ -1,12 +1,4 @@
-## Hi there 👋
+## GMT🌱
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+GMT란 GSM Study Timer로 학교 내에서 쓸 수 있는 공부 시간 측정 프로그램 입니다.
+학생들과 공부 시간을 공유할 수 있고 이로 인해 공부 효율을 높일 수 있습니다.
